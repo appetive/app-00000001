@@ -1,0 +1,10 @@
+{
+    "name": "appetive/app-00000001",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Appetive\\App00000001\\": "src/"
+        }
+    },
+    "require": {}
+}
